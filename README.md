@@ -9,12 +9,10 @@ This is a simple public API that returns basic information in JSON format.
     git clone https://github.com/yourusername/your-repo.git
     ```
 2. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+  
 3. Run the Flask application:
     ```bash
-    python app.py
+    python yolo.py
     ```
 
 ## API Documentation
@@ -31,4 +29,4 @@ This is a simple public API that returns basic information in JSON format.
 }
 ```
 
-[Get high quality python developers fom hng](https://hng.tech/hire/python-developers)
+## [Get high quality python developers fom hng](https://hng.tech/hire/python-developers)
